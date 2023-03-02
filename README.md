@@ -1,5 +1,1 @@
-```js
-json-server --watch db.json
-```
-
-Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
+Proyecto creado siguiendo los pasos del curso de Alura Latam, trata de un formulario en el que se puede agregar o extraer informacion utilizando un seervidor montado en el equipo
